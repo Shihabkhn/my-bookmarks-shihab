@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, 
+    initial-scale=1.0">
+    <meta name="description" content="This is the page of bookmark ">
+   
+    <title>the bookmark page </title>
+    <link rel="stylesheet" href="style.css">
+  
+</head>
+<body>
+    Hey this is my first code
+   <script src="script.js"></script>
+   <h1>My bookmarks - Shihab</h1>
+   <p>
+     <a target="_blank" href="https://www.Brave.com">Open Brave</a>
+   </p>
+   <a target="_blank" href="https://www.Library.com">Open Library </a>
+  
+   <h2>primary Bookmark</h2>
+   <a target="_blank" href="htttp://www.wikipedia.com">Open Wilipedia</a>
+   <p style="background-color: rgb(159, 248, 156);">lorem ipsum, dolor sit amet consectetur adipisicing elit. Adipisci nisi tempora saepe voluptas accusantium dicta assumenda, est quis enim minus vel provident debitis nam perspiciatis incidunt mollitia placeat optio tempore!</p>
+
+   <img width="450" src="photo.jpg" alt="">
+  
+   <table>
+    <caption>book shop</caption>
+    <thead>
+    
+
+    </thead>
+  <tr>
+    <th>Name</th>
+    <th>designation</th>
+    <th>Fav language</th>
+    <tr></tr>
+  </tr>
+  <tr>
+    <th> Shihab</th>
+    <th>programmer</th>
+    <th> Java script </th>
+  
+
+  <tr>
+
+    <td colspan="2" >sam</td>
+    <td rowspan="2" >Java</td>
+  </tr>
+
+  <tr>
+    <td colspan="2" >sam</td>
+  </tr>
+  <tfoot>
+
+
+  </tfoot>
+  <table>
+
+  </table>
+ 
+  <ul type="square" >
+    <li>Shihab</li>
+    <li>hamid</li>
+    <li>sakib</li>
+  </ul>
+  <ol>
+    <li>khalid</li>
+    <li>ali</li>
+    <li>khlid</li>
+  </ol>
+
+</body>
+</html>
